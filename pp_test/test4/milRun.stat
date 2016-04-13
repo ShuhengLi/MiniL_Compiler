@@ -1,0 +1,34 @@
+?:=	21
+:=	10
+!	0
+&&	0
+||	0
+>=	0
+>	10
+!=	0
+==	0
+<=	11
+<	0
+%	0
+/	0
+*	0
+-	20
++	0
+[]=	0
+=[]	0
+.[]>	0
+.>	0
+.[]<	0
+.<	2
+=	20
+
+
+Total # of branches/gotos:	31
+Total # of logical ops:	0
+Total # of comparison ops:	21
+Total # of arithmetic ops:	20
+Total # of array accesses:	0
+Total # of copy ops:	20
+
+
+Total # of instructions executed:	94
